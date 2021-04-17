@@ -14,10 +14,10 @@ public interface TestDataConfig extends Config {
     @Key("api.url")
     String apiUrl();
 
-    @Key("user.login")
-    String userLogin();
+    @Key("user.name")
+    String userName();
 
-    @Key("user.password")
-    String userPassword();
+    @Key("user.email")
+    String userEmail();
 
 }

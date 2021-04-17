@@ -16,11 +16,11 @@ public class TestData {
         return getTestData().apiUrl();
     }
 
-    public static String getUserLogin() {
-        return getTestData().userLogin();
+    public static String getUserName() {
+        return getTestData().userName();
     }
 
-    public static String getUserPassword() {
-        return getTestData().userPassword();
+    public static String getUserEmail() {
+        return getTestData().userEmail();
     }
 }
