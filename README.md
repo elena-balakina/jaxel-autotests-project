@@ -27,7 +27,7 @@
 ### Video
 ![Video](src/test/resources/img/video.gif)
 
-### Added telegram notification
+### Telegram notifications
 ![Telegram](src/test/resources/img/telegram-notifications.png)
 
 ### How to run autotests
